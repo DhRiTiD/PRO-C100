@@ -25,4 +25,4 @@
 - the project focuses on creating a review list for any movie based on rating of : actor, music and story
 - functionality and knowledge used is similar to the in-class project 
 - used average rating to conclude the data aquired in terms of stars [1-5]
-- I've done some enhancements to the original given assignment to take rating inputs from used and make the code memory as well as user friendly!
+- I've done some enhancements to the original given assignment to take rating inputs from user and make the code memory as well as user friendly!
